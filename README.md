@@ -128,12 +128,9 @@ urlpatterns = [
     path('',views.surfacearea,name="surfcaearea")
 ]
 ```
-
 ## SERVER SIDE PROCESSING:
 ![alt text](hemanath/SERVER.png)
-
 ## HOMEPAGE:
 ![alt text](hemanath/HOMEPAGE.png)
-
 ## RESULT:
 The program for performing server side processing is completed successfully.
